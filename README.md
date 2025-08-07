@@ -16,6 +16,9 @@ This repository contains a Unity prefab for a white transparent trail effect tha
 2. Import `Particle System.prefab` into your Unity project.
 3. Drag and drop the prefab onto the object you want the trail to follow.
 
+### Example Screenshot
+![White Transparent Trail Example](media/transparenttail.png)
+
 ---
 
 ## Türkçe
@@ -34,10 +37,8 @@ Bu depo, hareketli nesneleri takip eden beyaz şeffaf bir kuyruk efekti için Un
 2. `Particle System.prefab` dosyasını Unity projenize aktarın.
 3. Efekti takip etmesini istediğiniz nesneye prefabı ekleyin.
 
+### Örnek Görsel
+![Beyaz Şeffaf Kuyruk Örneği](media/transparenttail.png)
 ---
 
-## Repository Title & Description
 
-**Title:** White Transparent Trail Particle System for Unity
-
-**Description:** A Unity prefab for creating a white transparent trail effect that follows moving objects. Perfect for character, projectile, or vehicle trails.
